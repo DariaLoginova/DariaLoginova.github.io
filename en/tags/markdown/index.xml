@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | My Site</title>
+    <link>https://darialoginova.github.io/en/tags/markdown/</link>
+      <atom:link href="https://darialoginova.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darialoginova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://darialoginova.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://darialoginova.github.io/en/post/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://darialoginova.github.io/en/post/01/</guid>
+      <description>&lt;h1 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h1&gt;
+&lt;p&gt;Эта неделя оказалась продуктивной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Разобралась с основами &lt;strong&gt;баз данных&lt;/strong&gt; – SQL начинает становиться понятнее.&lt;/li&gt;
+&lt;li&gt;Провела много времени, изучая &lt;strong&gt;алгоритмы&lt;/strong&gt;, особенно динамическое программирование.&lt;/li&gt;
+&lt;li&gt;Попробовала несколько новых инструментов для управления проектами.&lt;/li&gt;
+&lt;li&gt;Написала скрипт для автоматизации рутинных задач – теперь работа стала быстрее.&lt;/li&gt;
+&lt;li&gt;Осознала, что хорошее планирование – это залог успеха и продуктивности.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Как прошла твоя неделя? Делись в комментариях!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>https://darialoginova.github.io/en/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://darialoginova.github.io/en/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://darialoginova.github.io/en/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://darialoginova.github.io/en/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>https://darialoginova.github.io/en/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://darialoginova.github.io/en/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
