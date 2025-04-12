@@ -5,7 +5,7 @@
     <link>https://darialoginova.github.io/project/</link>
       <atom:link href="https://darialoginova.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://darialoginova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
@@ -13,27 +13,37 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://darialoginova.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://darialoginova.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://darialoginova.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://darialoginova.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://darialoginova.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://darialoginova.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Личный сайт научного работника: современные возможности с Hugo Academic</title>
+      <link>https://darialoginova.github.io/project/hugo/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://darialoginova.github.io/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;В эпоху цифровых технологий каждый ученый и исследователь нуждается в платформе, позволяющей не только хранить и публиковать результаты работы, но и создавать уникальное профессиональное пространство для общения с коллегами и широкой аудиторией.&lt;/p&gt;
+&lt;h2 id=&#34;почему-выбирают-hugo-academic&#34;&gt;Почему выбирают Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это фреймворк, созданный специально для научных работников. Он предоставляет широкие возможности для демонстрации вашего профессионализма и достижений:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Современный и адаптивный дизайн.&lt;/strong&gt; Сайт отлично отображается на любых устройствах, обеспечивая удобство пользователям.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Интеграция с ключевыми научными платформами.&lt;/strong&gt; Возможность автоматически обновлять раздел с публикациями и данными о вас из популярных источников.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Многофункциональность.&lt;/strong&gt; Вы можете организовать сайт так, чтобы он включал разделы для публикаций, проектов, преподавательской деятельности, а также личного блога.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Простота в управлении контентом.&lt;/strong&gt; Поддержка Markdown позволяет легко редактировать и обновлять информацию без специализированных знаний в программировании.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;организация-контента-и-навигации&#34;&gt;Организация контента и навигации&lt;/h2&gt;
+&lt;p&gt;Правильно структурированный сайт помогает посетителям быстро находить нужную информацию. Важно уделить внимание следующим аспектам:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ясная архитектура сайта.&lt;/strong&gt; Продуманное меню и структура разделов обеспечивают легкий доступ к основным разделам — биография, публикации, проекты и новости.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Акцент на визуальную подачу.&lt;/strong&gt; Лаконичный дизайн помогает сконцентрировать внимание на содержимом, делая сайт приятным и простым в использовании.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Актуальность информации.&lt;/strong&gt; Регулярное обновление данных о научных достижениях, участии в конференциях и образовательных проектах существенно повышает доверие к ресурсу.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;персонализация-сайта&#34;&gt;Персонализация сайта&lt;/h2&gt;
+&lt;p&gt;Особенность Hugo Academic — возможность тонкой настройки под индивидуальные потребности:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Уникальный стиль.&lt;/strong&gt; Благодаря гибким настройкам вы сможете создать дизайн, отражающий вашу личность и специфику исследований.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Интеграция мультимедийных материалов.&lt;/strong&gt; Возможность добавлять фото, видео и интерактивные диаграммы позволяет сделать представление информации более наглядным.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Расширяемость.&lt;/strong&gt; Вы всегда можете добавить новые разделы или интегрировать сторонние сервисы, чтобы сайт рос и развивался вместе с вами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Личный сайт на базе Hugo Academic — это мощный инструмент для формирования и продвижения вашего научного имиджа. Создавая цифровое портфолио, вы открываете возможности для профессионального роста, налаживания международных контактов и эффективного обмена знаниями. Сайт становится не просто визитной карточкой, а динамичной платформой для демонстрации ваших достижений и обмена идеями.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
